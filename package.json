@@ -1,0 +1,22 @@
+{
+  "name": "insynkrestapi",
+  "version": "1.0.0",
+  "description": "Rest api to fetch movie list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "inSynk",
+    "assignment"
+  ],
+  "author": "tarakeswar Mondal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
+  }
+}
